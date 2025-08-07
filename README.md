@@ -1,6 +1,6 @@
 # Image Compositing and Matting
 
-This project performs simple image compositing and artifact-based color correction using C++. It uses PNG input images to isolate and blend foreground and background regions, applying alpha matting logic for compositing.
+This project performs simple image compositing and artifact-based color correction using opencv and numpy. It uses PNG input images to isolate and blend foreground and background regions, applying alpha matting logic for compositing.
 
 ## Example Output
 *foreground*
